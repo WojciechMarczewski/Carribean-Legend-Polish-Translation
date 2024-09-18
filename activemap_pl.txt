@@ -1,0 +1,23 @@
+CONTRABAND {Kontrabanda}
+AGGRESSIVE {Wysoki Popyt}
+EXPORT {Eksport}
+IMPORT {Import}
+Trade_assistant {Asystent handlowy}
+No_price {Brak listy cen}
+No_profit {Żadnych zyskownych transakcji}
+Distance {Dystans}
+To {Do}
+From {Z}
+day {dzień}
+day2 {dni}
+days {dni}
+hour {godzinie}
+hour2 {godzinie}
+hours {godziny}
+hours2 {godziny}
+nautical_mile {mila morska}
+nautical_mile2 {mile morskie}
+nautical_miles {mile morskie}
+nautical_miles2 {mile morskie}
+TRAVEL_from {z}
+TRAVEL_to {do}
