@@ -2,373 +2,354 @@ newline{
 
 }
 
-Balls {Round shot}
+Balls {Kule armatnie}
 Balls_descr
 {
-The cheapest, easiest to use, and reliable type of ammunition. Round shots are usually used to deal damage to the hull of a ship and attack coastal defensive structures at long range, but they are not very effective at damaging the enemy crew.
-Base damage: hull - #f.2DamageHull#, sails-#f.2DamageRig#, crew-#f.2DamageCrew#
+Najtańszy, najłatwiejszy w użyciu i niezawodny rodzaj amunicji. Kule armatnie są zwykle używane do zadawania uszkodzeń kadłuba statku i atakowania przybrzeżnych struktur obronnych z dużej odległości, ale nie są zbyt skuteczne w uszkadzaniu załogi wroga.
+Podstawowe uszkodzenia: kadłub - #f.2DamageHull#, żagle-#f.2DamageRig#, załoga-#f.2DamageCrew#
 }
 
 
-Grapes {Grapeshot}
+Grapes {Kartacze}
 Grapes_descr
 {
-A load of small lead or iron forged balls held together by a linen sack.
-Has a very short effective range. Does not damage the hull much on impact, but deals devastating damage to the enemy crew. It is widely used in naval combat to soften up an enemy vessel before boarding.
-Base damage: hull - #f.2DamageHull#, sails-#f.2DamageRig#, crew-#f.2DamageCrew#
+Ładunek małych ołowianych lub żelaznych kutych kulek połączonych lnianym workiem.
+Ma bardzo krótki skuteczny zasięg. Nie uszkadza zbytnio kadłuba przy uderzeniu, ale zadaje druzgocące uszkodzenia załodze wroga. Jest szeroko stosowany w walkach morskich, aby zmiękczyć wrogi statek przed abordażem.
+Podstawowe uszkodzenia: kadłub - #f.2DamageHull#, żagle-#f.2DamageRig#, załoga-#f.2DamageCrew#
 }
 
 
-Knippels {Chain shot}
+Knippels {Kule łańcuchowe}
 Knippels_descr
 {
-A projectile consisting of two cannonballs connected by an iron chain or a rod. This ammunition is used to damage masts, spars and rig.
-Generally, chain shot has low effectiveness at medium and long range as the chain tends to make the knippel tumble inaccurately. They have an unpredictable trajectory and do very little damage to the ship's hull. However, they tear through sails and rigging and can knock down masts, immobilising enemy ships.
-Base damage: hull - #f.2DamageHull#, sails-#f.2DamageRig#, crew-#f.2DamageCrew#
+Pocisk składający się z dwóch kul armatnich połączonych żelaznym łańcuchem lub prętem. Amunicja ta służy do uszkadzania masztów, drzewców i takielunku.
+Ogólnie rzecz biorąc, kule łańcuchowe mają niską skuteczność na średnim i długim dystansie, ponieważ kule złączone łańcuchem mają tendencję do koziołkowania. Mają nieprzewidywalną trajektorię i wyrządzają bardzo mało szkód kadłubowi statku. Przebijają jednak żagle i takielunek, a także mogą przewracać maszty, unieruchamiając wrogie statki.
+Podstawowe uszkodzenia: kadłub - #f.2DamageHull#, żagle-#f.2DamageRig#, załoga-#f.2DamageCrew#
 }
 
 
-Bombs {Bombs}
+Bombs {Bomby}
 Bombs_descr
 {
-Bombs are the most expensive and destructive type of ammunition. These bombs are made of a cast iron hollow ball filled with gunpowder and equipped with a wooden fuse. After ignition, the ball explodes upon impact, hitting the crewmen with shrapnel, destroying masts, setting rigging on fire, and shattering hulls with the shockwave.
-Base damage: hull - #f.2DamageHull#, sails-#f.2DamageRig#, crew-#f.2DamageCrew#
+Bomby są najdroższym i najbardziej niszczycielskim rodzajem amunicji. Bomby te wykonane są z żeliwnej pustej kuli wypełnionej prochem strzelniczym i wyposażonej w drewniany lont. Po zapłonie kula eksploduje przy uderzeniu, uderzając w załogę odłamkami, niszcząc maszty, podpalając takielunek i rozbijając kadłuby falą uderzeniową.
+Podstawowe uszkodzenia: kadłub - #f.2DamageHull#, żagle-#f.2DamageRig#, załoga-#f.2DamageCrew#
 }
 
 
-Sailcloth {Sailcloth}
+Sailcloth {Płótno żaglowe}
 Sailcloth_descr
 {
-Thick dense canvas used in manufacturing sails.
-The English North American colonies produce high quality cotton and hemp, and weave canvas from the two different fibers. The transversal fibers are made of cotton, and lengthwise fibers (the base) of hemp. It has a off-white color, is lighter, and dries faster compared to the traditional grey toned European canvas made of non-whitened flax.
+Grube, gęste płótno używane do produkcji żagli.
+Angielskie kolonie w Ameryce Północnej produkują wysokiej jakości bawełnę i konopie oraz tkają płótno z dwóch różnych włókien. Włókna poprzeczne wykonane są z bawełny, a włókna wzdłużne (podstawa) z konopi. Ma kolor złamanej bieli, jest jaśniejszy i szybciej schnie w porównaniu z tradycyjnym europejskim płótnem w odcieniu szarości wykonanym z niebielonego lnu.
 }
 
 
-Planks {Planks}
+Planks {Deski}
 Planks_descr
 {
-Dry planks of select 2nd grade wood, obtained by splitting old growth logs with wedges. Those are sturdier compared to sawn planks, are less susceptible to drying out and also don't cast and crack as much.
-The best material for emergency repairs of a ship's hull.
+Suche deski z wyselekcjonowanego drewna drugiego gatunku, uzyskane przez rozłupywanie starych kłód za pomocą klinów. Są one mocniejsze w porównaniu z deskami ciętymi, są mniej podatne na wysychanie, a także nie gną i nie pękają tak bardzo.
+Najlepszy materiał do awaryjnych napraw kadłuba statku.
 }
 
 
-Wheat {Wheat}
+Wheat {Pszenica}
 Wheat_descr
 {
-The local varietals of wheat are highly valued for their flour, which is used by bakers to make delicious loaves of bread with an amazing crust.
-Considering the high crop yield and the off-season time of ripening (January), good money can be made by importing wheat to winter Europe.
+Tutejsze odmiany pszenicy są wysoko cenione ze względu na mąkę, z której piekarze wyrabiają pyszne bochenki chleba o niesamowitej skórce.
+Biorąc pod uwagę wysokie plony i okres dojrzewania poza sezonem (styczeń), można dobrze zarobić, importując pszenicę do Europy na zimę.
 }
 
 
-Ebony {Ebony}
+Ebony {Heban}
 Ebony_descr
 {
-Ebony (black) wood has always fascinated carpenters and commoners alike with its beauty and hardness: this wood is twice as hard as oak. Combined with the unique color of the wood, it's a favorite of European nobility trying to impress their peers.
-Every sort of ebony has its own unique huge - ranging from greenish-brown to velvety black. With time, the wood becomes darker, harder - and more expensive.
+Drewno hebanowe (czarne) zawsze fascynowało zarówno stolarzy, jak i plebs swoim pięknem i twardością: drewno to jest dwa razy twardsze niż dąb. W połączeniu z unikalnym kolorem drewna jest ulubieńcem europejskiej szlachty, która stara się zaimponować swoim rówieśnikom.
+Każdy rodzaj hebanu ma swój unikalny odcień - od zielonkawo-brązowego po aksamitnie czarny. Z czasem drewno staje się ciemniejsze, twardsze - i droższe.
 }
 
 
-Chocolate {Cocoa}
+Chocolate {Kakao}
 Chocolate_descr
 {
-Ripe cocoa fruits are picked and cracked to extract the beans. These cocoa beans - once fermented and dried - can be stored for a long time.
-High demand for cocoa among the Indians and wealthy locals already dictates high prices for this merchandise, but the Spanish and Italians are willing to pay for it in gold, which makes the prices exorbitant.
+Dojrzałe owoce kakaowca są zbierane i rozłypywane w celu ekstrakcji ziaren. Te ziarna kakaowe - po sfermentowaniu i wysuszeniu - mogą być przechowywane przez długi czas.
+Wysoki popyt na kakao wśród Indian i bogatych mieszkańców już teraz dyktuje wysokie ceny tego towaru, ale Hiszpanie i Włosi są skłonni zapłacić za nie złotem, co sprawia, że ceny są wygórowane.
 }
 
 
-Sugar {Sugar}
+Sugar {Cukier}
 Sugar_descr
 {
-Boiling sugarcane juice for hours in large copper kettles turns the sweet syrup reduces into large brown crystal of raw sugar, ready to be dried and prepared for transportation to Europe where it is to be refined.
-The custom to offer guests tea or coffee sweetened with sugar - an everlasting fashion and aristocratic symbol of well-being - is a safe guarantee that crude sugar is always in high demand.
+Gotowanie soku z trzciny cukrowej przez wiele godzin w dużych miedzianych kotłach zamienia słodki syrop w duże brązowe kryształy surowego cukru, gotowe do wysuszenia i przygotowania do transportu do Europy, gdzie zostaną rafinowane.
+Zwyczaj oferowania gościom herbaty lub kawy słodzonej cukrem - wieczna moda i arystokratyczny symbol dobrobytu - jest pewną gwarancją, że surowy cukier zawsze będzie w wysokim popycie.
 }
 
-
-Wine {Wine}
+Wine {Wino}
 Wine_descr
 {
-Although there have been many failed attempts at viticulture in the New World (most unsucessful), imported wines from France, Spain, Italy, and Portugal are still highly valued for both sacramental and recreational purposes!
-Proper European wine is in great demand in any settlement and the local merchants will buy it in large amounts.
+Chociaż było wiele nieudanych prób uprawy winorośli w Nowym Świecie (większość nieudanych), importowane wina z Francji, Hiszpanii, Włoch i Portugalii są nadal wysoko cenione zarówno do celów sakramentalnych, jak i rekreacyjnych!
+Odpowiednie europejskie wino jest bardzo poszukiwane w każdej osadzie, a lokalni kupcy chętnie je kupują w dużych ilościach.
 }
 
-
-ShipSilk {Shipsilk}
+ShipSilk {Jedwab okrętowy}
 ShipSilk_descr
 {
-A masterpiece of the Lyon textile mills - dense silken sailcloth.
-The silk is extremely tough, the filaments are strong, elastic and uniform in thickness. This fabric is light and breathable; it absorbs moisture quickly, but dries even faster. It retains the shape and is resistant to stretching.
-With all of its advantages, silk cloth still has a significant drawback - exposure to sunlight tends to degrade the material.
+Arcydzieło lyońskich młynów tekstylnych - gęsta jedwabna tkanina żaglowa.
+Jedwab jest niezwykle wytrzymały, włókna są mocne, elastyczne i jednolite pod względem grubości. Ta tkanina jest lekka i przewiewna; szybko wchłania wilgoć, ale jeszcze szybciej schnie. Zachowuje kształt i jest odporna na rozciąganie.
+Pomimo wszystkich zalet, jedwab okrętowy ma jednak znaczną wadę - ekspozycja na światło słoneczne powoduje degradację materiału.
 }
-
 
 Rum {Rum}
 Rum_descr
 {
-A strong alcoholic beverage distilled from fermented sugarcane juice with a slightly funky taste and flavor. It's a valuable commodity, which can always be sold profitably, but also raises the morale of your sailors as long as you have some. Rum is also added to the supply of fresh water on ships to make grog, which both disinfects the water and improves the taste. 
-A shortage of rum on the ship can cause unrest among your sailors and even become the cause of a mutiny.
+Mocny napój alkoholowy destylowany z sfermentowanego soku z trzciny cukrowej o nietuzinkowym smaku i aromacie. Jest to cenny towar, który zawsze można sprzedać z zyskiem, ale także podnosi morale marynarzy, o ile jest dostępny. Rum jest również dodawany do zapasu świeżej wody na statkach, aby zrobić grog, który zarówno dezynfekuje wodę, jak i poprawia jej smak.
+Brak rumu na statku może powodować niepokoje wśród marynarzy, a nawet stać się przyczyną buntu.
 }
 
 
-Tobacco {Tobacco}
+Tobacco {Tytoń}
 Tobacco_descr
 {
-In distant Europe, in the local settlements and in cramped crew quarters below deck, tobacco is every man's delight. It is also considered a reliable prophylactic measure against many diseases - at least, that's what people believe.
-There are three types of tobacco ready for consumption - smoking tobacco, snuff tobacco, and chewing tobacco. Tobacco leaves in linen sacks are a treasured cargo for many merchants.
+W odległej Europie, w lokalnych osadach i ciasnych kajutach załogi pod pokładem, tytoń jest ulubieńcem każdego mężczyzny. Uważany jest również za niezawodny środek profilaktyczny przeciwko wielu chorobom - przynajmniej tak ludzie wierzą.
+Istnieją trzy rodzaje tytoniu gotowe do spożycia - tytoń do palenia, tabaka i tytoń do żucia. Liście tytoniu w lnianych workach są cennym ładunkiem dla wielu kupców.
 }
 
-
-Coffee {Coffee}
+Coffee {Kawa}
 Coffee_descr
 {
-A fragrant, energizing drink made of coffee beans, honey and cinnamon is very popular among the denizens of the New World these days - not only due to the large number of coffee plantations which became the main source of income for many rich Europeans, but also because tea from India and China is quite hard to come by.
-Green, unroasted coffee beans, which retain their merchantability and useful properties for a long time, are always in high demand in continental Europe, since coffee is now a must-have in any rich household.
+Aromatyczny, energetyzujący napój z ziaren kawy, miodu i cynamonu jest obecnie bardzo popularny wśród mieszkańców Nowego Świata - nie tylko ze względu na dużą liczbę plantacji kawy, które stały się głównym źródłem dochodu dla wielu bogatych Europejczyków, ale także dlatego, że herbata z Indii i Chin jest dość trudna do zdobycia.
+Zielone, niepalone ziarna kawy, które zachowują swoje właściwości handlowe i użytkowe przez długi czas, są zawsze w wysokim popycie w kontynentalnej Europie, ponieważ kawa jest teraz niezbędna w każdym bogatym domu.
 }
 
-
-Mahogany {Mahogany}
+Mahogany {Mahoń}
 Mahogany_descr
 {
-The wood of these trees has a very distinct and beautiful pattern, as well as being very sturdy, fire-resistant and long-lasting. It can be polished very easily, and is not harmed by wood pests. Spaniards were the first to appreciate it - now mahogany is widely using in the construction of ships, churches, and palaces.
-Furniture made of mahogany is an example of classic luxury, good taste and well-being of its owner.
+Drewno tych drzew ma bardzo wyraźny i piękny wzór, a także jest bardzo wytrzymałe, ognioodporne i długowieczne. Można je łatwo polerować i nie jest narażone na szkodniki drzewne. Hiszpanie byli pierwszymi, którzy to docenili - teraz mahoń jest szeroko stosowany w budowie statków, kościołów i pałaców.
+Meble z mahoniu są przykładem klasycznego luksusu, dobrego smaku i dobrobytu ich właściciela.
 }
 
-
-Cinnamon {Vanilla}
+Cinnamon {Wanilia}
 Cinnamon_descr
 {
-Dried and fermented pods of this evergreen vine originating in Mexico have a sweet aroma, but a bitter taste.
-Vanilla is used in Europe in making cocoa and hot chocolate. It is also used as aromatizer for tobacco; others simply chew it, though mostly that is just to show their status!
+Suszone i fermentowane strąki tej wiecznie zielonej winorośli pochodzącej z Meksyku mają słodki aromat, ale gorzki smak.
+Wanilia jest używana w Europie do produkcji kakao i gorącej czekolady. Jest również używana jako aromatyzator do tytoniu; inni po prostu ją żują, choć głównie po to, aby pokazać swój status!
 }
 
 
-Copra {Copra}
+Copra {Kopra}
 Copra_descr
 {
-Dried coconut meat.
-Copra is used in the making of copra oil and soap. This soap smells nice and also dyes hair, masking grey hair with a noble blonde hue.
+    Suszone mięso kokosowe.
+    Kopra jest używana do produkcji oleju kokosowego i mydła. Mydło ma ładny zapach i również farbuje włosy, maskując siwe włosy szlachetnym blond odcieniem.
 }
 
-
-Paprika {Paprika}
+Paprika {Papryka}
 Paprika_descr
 {
-Ground and dried red chili peppers, a sweet and hot spice that is immensely popular in cooking as a flavoring agent.
-Paprika is very popular among Germans, Spaniards, and in Mediterranean Europe, since it goes perfectly with practically everything: meat, fowl, fish, seafood, vegetables, and cheese.
+    Mielone i suszone czerwone papryczki chili, słodka i ostra przyprawa, która jest niezwykle popularna w gotowaniu jako środek aromatyzujący.
+    Papryka jest bardzo popularna wśród Niemców, Hiszpanów i w Europie Śródziemnomorskiej, ponieważ doskonale pasuje praktycznie do wszystkiego: mięsa, drobiu, ryb, owoców morza, warzyw i sera.
 }
 
-
-Fruits {Fruits}
+Fruits {Owoce}
 Fruits_descr
 {
-Edible tropical fruit picked from local flora. Great for warding off scurvy or flavoring cheap wine.
-Fruit can be sold in any settlement - there are buyers even for rare delicacies.
+    Jadalne tropikalne owoce zbierane z lokalnej flory. Świetne do zapobiegania szkorbutowi lub aromatyzowania taniego wina.
+    Owoce można sprzedawać w każdej osadzie - są nabywcy nawet na rzadkie przysmaki.
 }
 
-
-Ale {Ale}
+Ale {Piwo}
 Ale_descr
 {
-A brewed drink with low alcohol content, prepared by top fermentation. 
-Ale, together with bread, is considered a staple food and is included in the rations of the local garrisons (especially the English). Ale can be stored for long periods of time; besides, it possesses antibiotic properties thanks to the gruit (a mixture of herbs and spices used instead of hops).
+    Napój warzony o niskiej zawartości alkoholu, przygotowywany przez górną fermentację.
+    Piwo, razem z chlebem, jest uważane za podstawowy pokarm i jest włączane do racji żywnościowych lokalnych garnizonów (szczególnie angielskich). Ten trunek można przechowywać przez długi czas; ponadto, dzięki gruitowi (mieszance ziół i przypraw używanych zamiast chmielu), posiada właściwości antybiotyczne.
 }
 
-
-Ropes {Ropes}
+Ropes {Liny}
 Ropes_descr
 {
-Strong ropes made of hemp. Resistant to salt water, these are the best ropes to be used in rigging.
-The very best and most famous ropes are manufactured in the Tsardom of Russia.
+    Mocne liny wykonane z konopi. Odporne na wodę morską, są najlepszymi linami do użycia w takielunku.
+    Najlepsze i najbardziej znane liny są produkowane w Carstwie Rosyjskim.
 }
 
-
-Clothes {Clothes}
+Clothes {Ubrania}
 Clothes_descr
 {
-Practical conservative clothes made of dark fabric, simple cambric linen, turn-down collars and cuffs - a comfortable attire of any honest, hard-working, modest, and economical man.
-Inexpensive merchandise, always in demand.
+    Praktyczne, konserwatywne ubrania wykonane z ciemnej tkaniny, proste lniane koszule, kołnierzyki i mankiety - wygodny strój każdego uczciwego, ciężko pracującego, skromnego i oszczędnego człowieka.
+    Niedrogie towary, zawsze poszukiwane.
 }
 
 
-Cotton {Cotton}
+Cotton {Bawełna}
 Cotton_descr
 {
-Cotton ripens late and the crop yield is rather low on the Caribbean island plantations as compared to the North American colonies, but its fibers are still very valuable, since it is unusually long and thin. These silken creamy fibers are used to make threads for the thinnest fabrics of the finest quality.
-This laborious manufacture requires setting up a relatively large plantation and at least 20 slaves to work there.
+    Bawełna dojrzewa późno, a plony na plantacjach na Karaibach są raczej niskie w porównaniu do kolonii północnoamerykańskich, ale jej włókna są nadal bardzo cenne, ponieważ są niezwykle długie i cienkie. Te jedwabiste kremowe włókna są używane do produkcji nici na najcieńsze tkaniny najwyższej jakości.
+    Ta pracochłonna produkcja wymaga założenia stosunkowo dużej plantacji i co najmniej 20 niewolników do pracy.
 }
 
-
-Sandal {Ironwood}
+Sandal {Drewno żelazne}
 Sandal_descr
 {
-Ironwood is also known as 'lignum vitae'. This dense, hard and sturdy wood is almost impossible to crack. It's very heavy and unlike most wood, sinks rather than floats in water.
-As the name implies it's a very sturdy wood, although difficult to work with. It has also self-lubricating properties, especially in water.
-Due to the sturdiness and natural lubrication, ship elements made of ironwood do not require much maintenance, even in the worst sea conditions.
+    Drewno żelazne jest również znane jako 'lignum vitae'. To gęste, twarde i wytrzymałe drewno jest prawie niemożliwe do pęknięcia. Jest bardzo ciężkie i w przeciwieństwie do większości drewna, tonie, a nie unosi się na wodzie.
+    Jak sama nazwa wskazuje, jest to bardzo wytrzymałe drewno, choć trudne do obróbki. Ma również właściwości samosmarujące, zwłaszcza w wodzie.
+    Ze względu na wytrzymałość i naturalne smarowanie, elementy statków wykonane z drewna żelaznego nie wymagają dużej konserwacji, nawet w najgorszych warunkach morskich.
 }
 
-
-Oil {Tar}
+Oil {Smoła}
 Oil_descr
 {
-This natural asphalt tar is a sticky greyish-black mixture of bitumen, fine-dispersed clay, and salt water. The most famous export of Trinidad - although surely not the most beautiful one.
-This tar is used to waterproof and caulk the joins on a ship's hulls.
-It is believed that this tar is far superior to the tar produced in northern European countries from pine trees.
+    Ta naturalna smoła asfaltowa to lepka szarawo-czarna mieszanka bitumu, drobno rozproszonej gliny i wody morskiej. Najsłynniejszy eksport Trynidadu - choć z pewnością nie najpiękniejszy.
+    Ta smoła jest używana do uszczelniania i wodoszczelności połączeń na kadłubach statków.
+    Uważa się, że ta smoła jest znacznie lepsza od smoły produkowanej w północnych krajach europejskich z drzew sosnowych.
 }
 
-
-Leather {Leather}
+Leather {Skóra}
 Leather_descr
 {
-The dried and dressed hides of cattle is a universal merchandise always in demand in Europe. This is how the original buccaneers made their living, by selling the hides and meat of the wild cattle on Hispaniola.
-Although not many merchants would load their ships with leather alone, it is great for filling up empty cargo space, since it very tough and can handle any shipping conditions.
+    Suszone i wyprawione skóry bydła to uniwersalny towar zawsze poszukiwany w Europie. Tak właśnie pierwotni bukanierzy zarabiali na życie, sprzedając skóry i mięso dzikiego bydła na Hispanioli.
+    Chociaż niewielu kupców załadowałoby swoje statki wyłącznie skórą, jest ona świetna do wypełniania pustej przestrzeni ładunkowej, ponieważ jest bardzo wytrzymała i może wytrzymać wszelkie warunki transportu.
 }
 
 
-Slaves {Slaves}
+Slaves {Niewolnicy}
 Slaves_descr
 {
-Men and women - white and black - sold into slavery as a result of lost battles, punishment for committed crimes, or debts. From the planter or mine owner's point of view, this is completely legitimate merchandise, since the person was already a slave at the moment of purchase. The life of a slave is usually nasty, brutal, and short - most of them die during the first seven years after being sold to work on the plantations. 
+    Mężczyźni i kobiety - biali i czarni - sprzedawani w niewolę w wyniku przegranych bitew, kary za popełnione przestępstwa lub długi. Z punktu widzenia plantatora lub właściciela kopalni, jest to całkowicie legalny towar, ponieważ osoba ta była już niewolnikiem w momencie zakupu. Życie niewolnika jest zazwyczaj paskudne, brutalne i krótkie - większość z nich umiera w ciągu pierwszych siedmiu lat po sprzedaży do pracy na plantacjach.
 }
 
-
-Powder {Gunpowder}
+Powder {Proch strzelniczy}
 Powder_descr
 {
-Imported strategic merchandise, the product of dirty, noisy, smelly, and dangerous gunpowder mills. 'Keep your powder dry', say the experienced cannoneers. That can't be stressed enough: without gunpowder the cannons are just deadweight for a ship.
-A wise captain will always keep plenty of gunpowder in the driest and safest section of the hold.
+    Importowany strategiczny towar, produkt brudnych, hałaśliwych, śmierdzących i niebezpiecznych młynów prochowych. 'Trzymaj proch suchy', mówią doświadczeni kanonierzy. To nie może być wystarczająco podkreślone: bez prochu armaty są tylko martwym ciężarem dla statku.
+    Mądry kapitan zawsze trzyma dużo prochu w najdalszej i najbezpieczniejszej części ładowni.
 }
 
-
-Food {Food}
+Food {Żywność}
 Food_descr
 {
-A standard set of preserved rations and fresh water, required for feeding crew and slaves during a voyage.
-The lack of food on board leads to famine, deaths, and drop of morale. 
-Daily consumption: sailors - 0.1 unit, slaves - 0.05 unit.
+    Standardowy zestaw konserwowanych racji żywnościowych i świeżej wody, wymagany do karmienia załogi i niewolników podczas rejsu.
+    Brak żywności na pokładzie prowadzi do głodu, śmierci i spadku morale.
+    Dzienne spożycie: marynarze - 0,1 jednostki, niewolnicy - 0,05 jednostki.
 }
 
-
-Weapon {Weapon}
+Weapon {Broń}
 Weapon_descr
 {
-A collection of weapons: from sabers and swords to pistols and muskets.
-During boardings, every participant in the battle must be armed. A lack of weapons will cause the casualties to go up.
-As sailors die in battle, the amount of weapons onboard decreases.
+    Kolekcja broni: od szabel i mieczy po pistolety i muszkiety.
+    Podczas abordażu każdy uczestnik bitwy musi być uzbrojony. Brak broni spowoduje wzrost liczby ofiar.
+    W miarę jak marynarze giną w bitwie, ilość broni na pokładzie maleje.
 }
 
-
-Gold {Gold}
+Gold {Złoto}
 Gold_descr
 {
-Solid golden ingots, marked by the Treasury of Spain.
-Capturing a treasure ship loaded with gold is a dream of every pirate and privateer.
+    Solidne sztabki złota, oznaczone przez Skarb Hiszpanii.
+    Zdobycie statku skarbowego załadowanego złotem to marzenie każdego pirata i korsarza.
 }
 
-
-Silver {Silver}
+Silver {Srebro}
 Silver_descr
 {
-Solid silver ingots, marked by the Treasury of Spain.
-A desired prize, as silver has decent value, being the second choice of the Spanish treasury to hold and transport wealth. It is estimated that during the 16th century the Spanish Crown imported over 210 million pesos worth of silver from the New World to Europe.
+    Solidne sztabki srebra, oznaczone przez Skarb Hiszpanii.
+    Pożądana nagroda, ponieważ srebro ma przyzwoitą wartość, będąc drugim wyborem hiszpańskiego skarbu do przechowywania i transportu bogactwa. Szacuje się, że w XVI wieku hiszpańska korona importowała z Nowego Świata do Europy srebro o wartości ponad 210 milionów pesos.
 }
 
-
-Brick {Bricks}
+Brick {Cegły}
 Brick_descr
 {
-Neat blocks and roof tiles made of terracotta. Those are widely used in construction of towns, as wood tends to rot quickly in the humid Caribbean.
-Due to frequent fires, the authorities encourage the use of bricks in construction, therefore this merchandise is always in demand.
+    Schludne bloki i dachówki wykonane z terakoty. Są one szeroko stosowane w budownictwie miejskim, ponieważ drewno szybko gnije w wilgotnym klimacie Karaibów.
+    Ze względu na częste pożary, władze zachęcają do używania cegieł w budownictwie, dlatego ten towar jest zawsze poszukiwany.
 }
 
-
-Medicament {Medicines}
+Medicament {Leki}
 Medicament_descr
 {
-A set of medicine and instruments intended for treatment of the most common diseases and rendering first aid to the wounded and injured.
-Having medicines onboard helps to save the injured, reduce boarding casualties, and heal the sick while at sea.
+    Zestaw leków i narzędzi przeznaczonych do leczenia najczęstszych chorób oraz udzielania pierwszej pomocy rannym i poszkodowanym.
+    Posiadanie leków na pokładzie pomaga ratować rannych, zmniejszać straty podczas abordażu i leczyć chorych podczas rejsu.
 }
 
-Cannon_3 {Falconets}
+Cannon_3 {Falkonety}
 Cannon_3_descr
 {
-Deck cannons equipped with a ring mount. They have a high mobility but suffer from reduced firing distance and damage due to the small caliber.
-Often they are equipped with an interchangeable breech, which lets them reload even faster.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Działa pokładowe wyposażone w montaż pierścieniowy. Mają dużą mobilność, ale cierpią na zmniejszony zasięg strzału i obrażenia z powodu małego kalibru.
+    Często są wyposażone w wymienny zamek, co pozwala na jeszcze szybsze przeładowanie.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_6 {Light demi-cannons}
+Cannon_6 {Lekkie półkartauny}
 Cannon_6_descr
 {
-Small cannons quite popular on courier and trade vessels due to their low weight and simplicity of maintenance.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Małe działa, dość popularne na statkach kurierskich i handlowych ze względu na ich niską wagę i prostotę konserwacji.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_12 {Demi-cannons}
+Cannon_12 {Półkartauny}
 Cannon_12_descr
 {
-Standard, highly reliable cannons of most military flotillas, capable of firing at high angles of elevation, which increases effective combat distance significantly.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Standardowe, wysoce niezawodne działa większości flot wojskowych, zdolne do strzelania pod dużymi kątami elewacji, co znacznie zwiększa efektywny zasięg bojowy.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_16 {Naval demi-cannons}
+
+Cannon_16 {Okrętowe półkartauny}
 Cannon_16_descr
 {
-Modern French cannons. Thanks to advanced construction and the new system developed by Monsieur de Valliere, these cannons have greater firing range and deal more damage compared to ordinary demi-cannons. However, they take longer to load, are slightly less reliable, and heavier.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Nowoczesne francuskie działa. Dzięki zaawansowanej konstrukcji i nowemu systemowi opracowanemu przez Monsieur de Valliere, te działa mają większy zasięg strzału i zadają większe obrażenia w porównaniu do zwykłych półkartaun. Jednakże, ich ładowanie trwa dłużej, są nieco mniej niezawodne i cięższe.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_20 {Small cannons}
+Cannon_20 {Małe działa}
 Cannon_20_descr
 {
-Cannons of the largest caliber to fire file-hard cannonballs, which allow to increase the damage dealt to the enemy. Still, the longer barrel causes a significant increase in their weight.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Działa największego kalibru, strzelające twardymi jak pilnik kulami armatnimi, co pozwala zwiększyć zadawane obrażenia. Jednakże, dłuższa lufa powoduje znaczny wzrost ich wagi.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_24 {Ship cannons}
+Cannon_24 {Działa okrętowe}
 Cannon_24_descr
 {
-The most balanced cannons, considering their main technical characteristics. They are very popular on military and expedition vessels for good reason.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Najbardziej zrównoważone działa, biorąc pod uwagę ich główne cechy techniczne. Są bardzo popularne na statkach wojskowych i ekspedycyjnych z dobrego powodu.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_32 {Battery cannons}
+Cannon_32 {Działa baterii}
 Cannon_32_descr
 {
-Heavy cannons of large caliber, capable of bombarding defensive structures. Deals great damage to the hull.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Ciężkie działa dużego kalibru, zdolne do bombardowania struktur obronnych. Zadają duże obrażenia kadłubowi.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_36 {Coastal cannons}
+Cannon_36 {Działa nadbrzeżne}
 Cannon_36_descr
 {
-Long-barreled cannons are rare guests on the gundeck. But despite their long reloading time, they deal great damage and have quite a long firing range.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Działa długolufowe są rzadkimi gośćmi na pokładzie artyleryjskim. Ale mimo długiego czasu przeładowania, zadają duże obrażenia i mają dość duży zasięg strzału.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Cannon_42 {Siege cannons}
+Cannon_42 {Działa oblężnicze}
 Cannon_42_descr
 {
-An almost obsolete, yet still powerful cannon, very suitable for using on ships of the line.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Prawie przestarzałe, ale nadal potężne działa, bardzo odpowiednie do użycia na okrętach liniowych.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Culverine_8 {Demi-couleuvrines}
+
+Culverine_8 {Półkulewryny}
 Culverine_8_descr
 {
-Long-barreled 8-pounder cannon on a fixed mount. Has increased firing range. Is typically used for barrage fire.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    Działo 8-funtowe z długą lufą na stałym montażu. Ma zwiększony zasięg strzału. Zazwyczaj używane do ognia zaporowego.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Culverine_18 {Couleuvrines}
+Culverine_18 {Kulewryny}
 Culverine_18_descr
 {
-This 18-pound medium cannon with a long firing range is 12 feet long. Despite astounding firing range, it is very slow and has a very long reloading time.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
+    To średnie działo 18-funtowe o dużym zasięgu strzału ma 12 stóp długości. Pomimo zdumiewającego zasięgu strzału, jest bardzo wolne i ma bardzo długi czas przeładowania.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
 }
 
-Culverine_36 {Full couleuvrines}
+Culverine_36 {Pełne kulewryny}
 Culverine_36_descr
 {
-A 36-pound fort cannon intended for breaching fire. Can also be used in the ship's batteries as well and deal significant damage to the enemy, provided that the cannoneer is experienced, agile, and accurate.
-These cannons require ports capable of accommodating 42-pounder guns due to their longer barrels.
-Firing distance - #dFireRange#, damage - x#f.1DamageMultiply#, reload - #dReloadTime# sec.
-} 
+    Działo forteczne 36-funtowe przeznaczone do ognia przełamującego. Może być również używane w bateriach okrętowych i zadawać znaczne obrażenia wrogowi, pod warunkiem, że kanonier jest doświadczony, zręczny i celny.
+    Te działa wymagają portów zdolnych pomieścić działa 42-funtowe ze względu na ich dłuższe lufy.
+    Zasięg strzału - #dFireRange#, obrażenia - x#f.1DamageMultiply#, przeładowanie - #dReloadTime# sek.
+}
