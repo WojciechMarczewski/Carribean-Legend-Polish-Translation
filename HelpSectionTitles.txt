@@ -1,44 +1,44 @@
 sea_minimap
 {
-  Navigation mini-map.
-
+    Mini-mapa nawigacyjna.
 }
+
 ship_commands
 {
-  Commands to control your ship and ships of your companions.
-
+    Polecenia do kontrolowania twojego statku i statków twoich towarzyszy.
 }
+
 fast_commands
 {
-  Current command in quick access.
-
+    Aktualne polecenie w szybkim dostępie.
 }
+
 sea_aim
 {
-  The sight of the ship's cannons.
-
+    Celownik dział okrętowych.
 }
+
 alarm_indicator
 {
-  Alarm indicator.
-
+    Wskaźnik alarmu.
 }
+
 land_commands
 {
-  Land action commands.
-
+    Polecenia do działań na lądzie.
 }
+
 WorldMap_Date_Clock
 {
-  Date and time indicator on the map.
-
+    Wskaźnik daty i czasu na mapie.
 }
+
 WorldMap_Compas
 {
-  Compass on the map.
-
+    Kompas na mapie.
 }
+
 Dialog_window
 {
-  Dialog window.
+    Okno dialogowe.
 }
